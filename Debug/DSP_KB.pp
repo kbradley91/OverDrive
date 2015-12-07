@@ -30,9 +30,6 @@ DSP_KB.obj: C:/tidcs/c28/DSP2833x/v131/DSP2833x_common/include/DSP2833x_DefaultI
 DSP_KB.obj: ../DSP_KB.h
 DSP_KB.obj: C:/ti/ccsv6/tools/compiler/ti-cgt-c2000_6.4.2/include/string.h
 DSP_KB.obj: C:/ti/ccsv6/tools/compiler/ti-cgt-c2000_6.4.2/include/linkage.h
-DSP_KB.obj: ../Lab8Header.h
-DSP_KB.obj: ../FPU.h
-DSP_KB.obj: ../Lab9.h
 DSP_KB.obj: C:/ti/ccsv6/tools/compiler/ti-cgt-c2000_6.4.2/include/math.h
 
 ../DSP_KB.c: 
@@ -65,7 +62,4 @@ C:/tidcs/c28/DSP2833x/v131/DSP2833x_common/include/DSP2833x_DefaultISR.h:
 ../DSP_KB.h: 
 C:/ti/ccsv6/tools/compiler/ti-cgt-c2000_6.4.2/include/string.h: 
 C:/ti/ccsv6/tools/compiler/ti-cgt-c2000_6.4.2/include/linkage.h: 
-../Lab8Header.h: 
-../FPU.h: 
-../Lab9.h: 
 C:/ti/ccsv6/tools/compiler/ti-cgt-c2000_6.4.2/include/math.h: 

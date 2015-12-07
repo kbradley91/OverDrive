@@ -1,9 +1,8 @@
 #include <DSP28x_Project.h>
 #include "DSP_KB.h"
 #include "string.h"
-#include "Lab8Header.h"
-#include "FPU.h"
-#include "Lab9.h"
+//#include "Lab8Header.h"
+
 #include "math.h"
 /* Digital Mixing:
  *

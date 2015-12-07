@@ -28,8 +28,6 @@ main.obj: C:/tidcs/c28/DSP2833x/v131/DSP2833x_common/include/DSP2833x_Dma_define
 main.obj: C:/tidcs/c28/DSP2833x/v131/DSP2833x_common/include/DSP2833x_I2C_defines.h
 main.obj: C:/tidcs/c28/DSP2833x/v131/DSP2833x_common/include/DSP2833x_DefaultISR.h
 main.obj: ../DSP_KB.h
-main.obj: ../Lab9.h
-main.obj: ../FPU.h
 main.obj: C:/ti/ccsv6/tools/compiler/ti-cgt-c2000_6.4.2/include/math.h
 main.obj: C:/ti/ccsv6/tools/compiler/ti-cgt-c2000_6.4.2/include/linkage.h
 
@@ -61,7 +59,5 @@ C:/tidcs/c28/DSP2833x/v131/DSP2833x_common/include/DSP2833x_Dma_defines.h:
 C:/tidcs/c28/DSP2833x/v131/DSP2833x_common/include/DSP2833x_I2C_defines.h: 
 C:/tidcs/c28/DSP2833x/v131/DSP2833x_common/include/DSP2833x_DefaultISR.h: 
 ../DSP_KB.h: 
-../Lab9.h: 
-../FPU.h: 
 C:/ti/ccsv6/tools/compiler/ti-cgt-c2000_6.4.2/include/math.h: 
 C:/ti/ccsv6/tools/compiler/ti-cgt-c2000_6.4.2/include/linkage.h: 
